@@ -1,0 +1,71 @@
+# COCORRIDOR Status Page — Powered by Upptime
+# https://upptime.js.org
+
+owner: cocorridor
+repo: upptime
+
+sites:
+  # --- Production ---
+  - name: API Infrastructure
+    url: https://api.cocorridor.fr/api/health
+    expectedStatusCodes:
+      - 200
+    icon: https://www.cocorridor.fr/favicon.ico
+
+  - name: Dashboard (prod)
+    url: https://app.cocorridor.fr
+    expectedStatusCodes:
+      - 200
+    icon: https://www.cocorridor.fr/favicon.ico
+
+  - name: Site web (prod)
+    url: https://www.cocorridor.fr
+    expectedStatusCodes:
+      - 200
+    icon: https://www.cocorridor.fr/favicon.ico
+
+  - name: Legal Builder (prod)
+    url: https://legal.cocorridor.fr
+    expectedStatusCodes:
+      - 200
+    icon: https://www.cocorridor.fr/favicon.ico
+
+
+status-website:
+  cname: status.cocorridor.fr
+  logoUrl: https://www.cocorridor.fr/favicon.ico
+  name: COCORRIDOR Status
+  introTitle: "**État des services COCORRIDOR**"
+  introMessage: "Cette page affiche en temps réel l'état de nos services. Mise à jour automatique toutes les 5 minutes."
+  navbar:
+    - title: Page d'accueil
+      href: https://www.cocorridor.fr
+    - title: GitHub
+      href: https://github.com/cocorridor/upptime
+  theme: dark
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  uptime: "*/5 * * * *"
+
+i18n:
+  activeIncidents: Incidents en cours
+  allSystemsOperational: Tous les systèmes sont opérationnels
+  incidentReport: "Rapport d'incident pour {0}"
+  activeIncidentSummary: "Ouvert le {0} avec {1} mise(s) à jour"
+  incidentTitle: Détails de l'incident
+  incidentDetails: Détails de l'incident
+  pastIncidents: Incidents passés
+  pastIncidentSummary: "{0} incidents signalés"
+  liveStatus: "État en direct"
+  overallUptime: "Disponibilité globale"
+  overallUptimeTitle: "Disponibilité globale"
+  responseTime: Temps de réponse
+  responseTimeTitle: Temps de réponse
+  up: Opérationnel
+  down: Hors service
+  degraded: Dégradé
