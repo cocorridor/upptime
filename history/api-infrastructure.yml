@@ -1,7 +1,7 @@
 url: https://api.cocorridor.fr/api/health
-status: down
-code: 500
-responseTime: 1036
-lastUpdated: 2026-03-22T23:21:18.115Z
+status: up
+code: 200
+responseTime: 975
+lastUpdated: 2026-03-23T07:24:04.906Z
 startTime: 2026-02-18T23:37:35.349Z
 generator: Upptime <https://github.com/upptime/upptime>
