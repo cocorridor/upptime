@@ -5,18 +5,19 @@
     "icon": "https://www.cocorridor.fr/favicon.ico",
     "slug": "api-infrastructure",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.73%",
+    "uptime": "99.48%",
+    "uptimeDay": "91.99%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.48%",
     "time": 1464,
     "timeDay": 1036,
-    "timeWeek": 1014,
+    "timeWeek": 1001,
     "timeMonth": 1177,
     "timeYear": 1464,
     "dailyMinutesDown": {
-      "2026-03-22": 0,
+      "2026-03-23": 77,
+      "2026-03-22": 39,
       "2026-03-07": 123
     }
   },
@@ -33,7 +34,7 @@
     "uptimeYear": "100.00%",
     "time": 3496,
     "timeDay": 910,
-    "timeWeek": 1100,
+    "timeWeek": 1118,
     "timeMonth": 3482,
     "timeYear": 3496,
     "dailyMinutesDown": {}
@@ -51,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 1431,
     "timeDay": 4637,
-    "timeWeek": 1733,
+    "timeWeek": 1850,
     "timeMonth": 1471,
     "timeYear": 1431,
     "dailyMinutesDown": {}
@@ -69,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 7665,
     "timeDay": 8018,
-    "timeWeek": 7299,
+    "timeWeek": 7231,
     "timeMonth": 7657,
     "timeYear": 7665,
     "dailyMinutesDown": {}
