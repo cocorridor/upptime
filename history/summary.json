@@ -5,11 +5,11 @@
     "icon": "https://www.cocorridor.fr/favicon.ico",
     "slug": "api-infrastructure",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.90%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.15%",
     "time": 2510,
     "timeDay": 672,
     "timeWeek": 9886,
@@ -44,9 +44,9 @@
     "url": "https://www.cocorridor.fr",
     "icon": "https://www.cocorridor.fr/favicon.ico",
     "slug": "site-web-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 1948,
     "timeMonth": 1726,
     "timeYear": 1526,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 0
+    }
   },
   {
     "name": "Legal Builder (prod)",
