@@ -4,11 +4,11 @@
     "url": "https://api.cocorridor.fr/api/health",
     "icon": "https://www.cocorridor.fr/favicon.ico",
     "slug": "api-infrastructure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.90%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "99.18%",
     "time": 2968,
     "timeDay": 28415,
@@ -16,6 +16,7 @@
     "timeMonth": 3797,
     "timeYear": 2968,
     "dailyMinutesDown": {
+      "2026-04-11": 3,
       "2026-03-23": 444,
       "2026-03-22": 39,
       "2026-03-07": 123
@@ -26,10 +27,10 @@
     "url": "https://app.cocorridor.fr",
     "icon": "https://www.cocorridor.fr/favicon.ico",
     "slug": "dashboard-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4384,
@@ -37,7 +38,9 @@
     "timeWeek": 9509,
     "timeMonth": 4053,
     "timeYear": 4384,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-11": 2
+    }
   },
   {
     "name": "Site web (prod)",
@@ -64,7 +67,7 @@
     "url": "https://legal.cocorridor.fr",
     "icon": "https://www.cocorridor.fr/favicon.ico",
     "slug": "legal-builder-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
